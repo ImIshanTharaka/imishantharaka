@@ -1,4 +1,4 @@
-![Ishan Tharaka](https://github.com/ImIshanTharaka/imishantharaka/blob/main/fotis-fotopoulos-SyvsTmuuZyM-unsplash.jpg)
+![Ishan Tharaka](fotis-fotopoulos-SyvsTmuuZyM-unsplash.jpg)
 
 ### Hi there 👋, my name is Ishan Tharaka
 I'm Ishan Tharaka from Sri Lanka, and I do software development. I really enjoy learning programming languages and frameworks. I also like to learn and try out new technologies.
