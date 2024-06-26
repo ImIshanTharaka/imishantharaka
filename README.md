@@ -1,6 +1,4 @@
-![Ishan Tharaka](fotis-fotopoulos-SyvsTmuuZyM-unsplash.jpg)
-
-### Hi there 👋, my name is Ishan Tharaka
+### Hi there 👋, 
 I'm Ishan Tharaka from Sri Lanka, and I do software development. I really enjoy learning programming languages and frameworks. I also like to learn and try out new technologies.
 
 ## Skills: 
