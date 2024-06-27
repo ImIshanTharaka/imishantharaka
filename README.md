@@ -1,5 +1,5 @@
 # Hi there 👋, 
-I'm Ishan Tharaka from Sri Lanka, and I do software development. I really enjoy learning programming languages and frameworks. I also like to learn and try out new technologies.
+I'm Ishan Tharaka from Sri Lanka, and I love programming. I really enjoy learning programming languages and frameworks. I also like to learn and try out new technologies.
 
 ## Skills: 
 * Java
