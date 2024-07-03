@@ -1,4 +1,4 @@
-![alt text](![alt text](http://url/to/img.png))
+![alt text](https://github.com/ImIshanTharaka/imishantharaka/blob/main/fotis-fotopoulos-SyvsTmuuZyM-unsplash.jpg?raw=true)
 
 # Hi there 👋, 
 I'm Ishan Tharaka from Sri Lanka, and I love programming. I really enjoy learning programming languages and frameworks. I also like to learn and try out new technologies.
