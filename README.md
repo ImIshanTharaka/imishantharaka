@@ -1,3 +1,5 @@
+![alt text](![alt text](http://url/to/img.png))
+
 # Hi there 👋, 
 I'm Ishan Tharaka from Sri Lanka, and I love programming. I really enjoy learning programming languages and frameworks. I also like to learn and try out new technologies.
 
